@@ -1,0 +1,9 @@
+C:\Users\Benji\source\repos\OunceToGramConversion\OunceToGramConversion\bin\Debug\netcoreapp2.0\OunceToGramConversion.deps.json
+C:\Users\Benji\source\repos\OunceToGramConversion\OunceToGramConversion\bin\Debug\netcoreapp2.0\OunceToGramConversion.dll
+C:\Users\Benji\source\repos\OunceToGramConversion\OunceToGramConversion\bin\Debug\netcoreapp2.0\OunceToGramConversion.pdb
+C:\Users\Benji\source\repos\OunceToGramConversion\OunceToGramConversion\obj\Debug\netcoreapp2.0\OunceToGramConversion.csprojResolveAssemblyReference.cache
+C:\Users\Benji\source\repos\OunceToGramConversion\OunceToGramConversion\obj\Debug\netcoreapp2.0\OunceToGramConversion.csproj.CoreCompileInputs.cache
+C:\Users\Benji\source\repos\OunceToGramConversion\OunceToGramConversion\obj\Debug\netcoreapp2.0\OunceToGramConversion.AssemblyInfoInputs.cache
+C:\Users\Benji\source\repos\OunceToGramConversion\OunceToGramConversion\obj\Debug\netcoreapp2.0\OunceToGramConversion.AssemblyInfo.cs
+C:\Users\Benji\source\repos\OunceToGramConversion\OunceToGramConversion\obj\Debug\netcoreapp2.0\OunceToGramConversion.dll
+C:\Users\Benji\source\repos\OunceToGramConversion\OunceToGramConversion\obj\Debug\netcoreapp2.0\OunceToGramConversion.pdb

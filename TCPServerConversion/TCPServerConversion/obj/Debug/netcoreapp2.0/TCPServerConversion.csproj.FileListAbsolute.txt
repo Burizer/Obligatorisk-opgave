@@ -1,0 +1,28 @@
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.csprojResolveAssemblyReference.cache
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.csproj.CoreCompileInputs.cache
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.AssemblyInfoInputs.cache
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.AssemblyInfo.cs
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\TCPServerConversion.deps.json
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\TCPServerConversion.runtimeconfig.json
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\TCPServerConversion.runtimeconfig.dev.json
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\TCPServerConversion.dll
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\TCPServerConversion.pdb
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\OunceToGramConversion.dll
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\OunceToGramConversion.pdb
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.csproj.CopyComplete
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.dll
+C:\Users\Benji\source\repos\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.pdb
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\TCPServerConversion.deps.json
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\TCPServerConversion.runtimeconfig.json
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\TCPServerConversion.runtimeconfig.dev.json
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\TCPServerConversion.dll
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\TCPServerConversion.pdb
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\OunceToGramConversion.dll
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\bin\Debug\netcoreapp2.0\OunceToGramConversion.pdb
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.csprojResolveAssemblyReference.cache
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.csproj.CoreCompileInputs.cache
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.AssemblyInfoInputs.cache
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.AssemblyInfo.cs
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.csproj.CopyComplete
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.dll
+C:\Users\Benji\source\repos\Obligatorisk opgave\TCPServerConversion\TCPServerConversion\obj\Debug\netcoreapp2.0\TCPServerConversion.pdb

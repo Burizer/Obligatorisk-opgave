@@ -1,0 +1,17 @@
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\bin\Debug\netcoreapp2.0\UnitTestConversion.deps.json
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\bin\Debug\netcoreapp2.0\UnitTestConversion.runtimeconfig.json
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\bin\Debug\netcoreapp2.0\UnitTestConversion.runtimeconfig.dev.json
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\bin\Debug\netcoreapp2.0\UnitTestConversion.dll
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\bin\Debug\netcoreapp2.0\UnitTestConversion.pdb
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\bin\Debug\netcoreapp2.0\OunceToGramConversion.dll
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\bin\Debug\netcoreapp2.0\OunceToGramConversion.pdb
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\obj\Debug\netcoreapp2.0\UnitTestConversion.csprojResolveAssemblyReference.cache
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\obj\Debug\netcoreapp2.0\UnitTestConversion.csproj.CoreCompileInputs.cache
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\obj\Debug\netcoreapp2.0\UnitTestConversion.AssemblyInfoInputs.cache
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\obj\Debug\netcoreapp2.0\UnitTestConversion.AssemblyInfo.cs
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\obj\Debug\netcoreapp2.0\UnitTestConversion.csproj.CopyComplete
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\obj\Debug\netcoreapp2.0\UnitTestConversion.dll
+C:\Users\Benji\source\repos\OunceToGramConversion\UnitTestConversion2\obj\Debug\netcoreapp2.0\UnitTestConversion.pdb
